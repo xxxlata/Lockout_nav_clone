@@ -17,7 +17,7 @@ a태그의 밑줄 속성을 없앨 수 있다.
 ![src](screenshot/look_1488x314_clone.png?raw=true)
 
 ### 태블릿화면
-![src](screenshot/look_414x736_clone.png?raw=true)
+![src](screenshot/look_768x1024_clone.png?raw=true)
 
 ### 모바일화면
-![src](screenshot/look_768x1024_clone.png?raw=true)
+![src](screenshot/look_414x736_clone.png?raw=true)
